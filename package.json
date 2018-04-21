@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "nodemon": "nodemon -w src -w server.js -w app.js",
-    "test": "npm i -g mocha && mocha --recursive"
+    "test": "npm i -g mocha && mocha --recursive",
+    "fop":"echo  veera"
   },
   "repository": {
     "type": "git",
